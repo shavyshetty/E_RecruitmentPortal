@@ -1,0 +1,9 @@
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\bin\Debug\CandidateProfileBO1.dll
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\bin\Debug\CandidateProfileBO1.pdb
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\obj\Debug\CandidateProfileBO1.dll
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\obj\Debug\CandidateProfileBO1.pdb
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\bin\Debug\CandidateProfileBO1.dll
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\bin\Debug\CandidateProfileBO1.pdb
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\obj\Debug\CandidateProfileBO1.csprojResolveAssemblyReference.cache
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\obj\Debug\CandidateProfileBO1.dll
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\CandidateProfileBO1\obj\Debug\CandidateProfileBO1.pdb

@@ -1,0 +1,14 @@
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\DAL.dll
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\DAL.pdb
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\BO.dll
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\BO.pdb
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.dll
+C:\Users\760798\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.pdb
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\DAL.dll
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\DAL.pdb
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\BO.dll
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\bin\Debug\BO.pdb
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.dll
+C:\Users\757694\Desktop\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\E-Recruitment(27-2-14)Final\DAL\obj\Debug\DAL.pdb
